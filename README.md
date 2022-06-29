@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ganeshnadiger
 - 👀 Interested in Developing web applications
-- 🌱 Working as Sesnior Systems Engineer in Infosys from past 2 years
+- 🌱 Working as UI/UX Frontend Developer @Quantiphi with total work experience of 3 years
 - 💞️ Looking to collaborate on ReactJS
 - 📫 Reach me on ganeshsnadiger@gmail.com / +91 7795927211 
 - 🌏 Residence in Bengaluru [Karnataka, India]
